@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Calculator</string>
+    <string name="info_name">Info Page</string>
+    <string name="action_settings">Settings</string>
+    <string name="calculator">A Simple Calculator</string>
+    <string name="name_calc">Calculator</string>
+    <string name="name_Info">Info</string>
+    <string name="info_Content">This is a calculator.\n
+        The user will enter in 2 numbers and a result is then displayed on the
+        third text box, below the buttons. This was very easy to make,
+        once I had found the youtube video posted below. Learned how to use more tools in android.
+        \n Colin Fitt
+        \n 703-346-7815
+    </string>
+    <string name="acknowledgement">\nAndroid Academy:
+        url\nhttps://www.youtube.com/watch?v=-lYlYwD-otw</string>
+    <string name="title_of_info">Assignment 1: Simple App</string>
+
+
+</resources>
